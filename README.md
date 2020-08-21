@@ -1,3 +1,10 @@
+ ______                           _____       _     _   _______          _ 
+|___  /                          |  __ \     (_)   | | |__   __|        | |
+   / / ___   ___  _ __ ___  ___  | |__) |__ _ _  __| |    | | ___   ___ | |
+  / / / _ \ / _ \| '_ ` _ \/ __| |  _  // _` | |/ _` |    | |/ _ \ / _ \| |
+ / /_| (_) | (_) | | | | | \__ \ | | \ \ (_| | | (_| |    | | (_) | (_) | |
+/_____\___/ \___/|_| |_| |_|___/ |_|  \_\__,_|_|\__,_|    |_|\___/ \___/|_|
+
 # Discord-Raid-Tool-Zooms-Discord-Raid-Tools-
 Simple Raid bot for Discord using tokens! Undetected, and fullyworking. Version 1.2
 
@@ -16,6 +23,5 @@ Simple Raid bot for Discord using tokens! Undetected, and fullyworking. Version 
 
 # Virustotal (False Positives)
 
-https://www.virustotal.com/gui/file/a485af9baecec9113428c8e8eb7197c281fa5c5a46b9aa47a94ba7bc060d80e0/detection
 
 
